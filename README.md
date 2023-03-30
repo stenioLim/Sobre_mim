@@ -27,3 +27,13 @@ Aqui você encontra todos os meus projetos e pratica tanto adiquirido em curso c
 - Email : stenio_bomfim@hotmail.com
 
 Here you can find all my projects and practice both in course and in college!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stenioLim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stenioLim)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div> 
+  <a href="https://www.linkedin.com/in/stenio-lima-422314222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
