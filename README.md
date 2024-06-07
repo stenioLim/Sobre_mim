@@ -3,11 +3,11 @@
 
 🚀 Habilidades e Tecnologias:
 
-Linguagens: Swift, Objective-C
-Frameworks: UIKit, SwiftUI, Core Data, Combine, RESTful APIs
-Ferramentas: Xcode, Git, GitHub, Bitbucket
-Testes: XCTest, TestFlight, CI/CD
-Ágil: Scrum, Kanban
+-Linguagens: Swift, Objective-C
+-Frameworks: UIKit, SwiftUI, Core Data, Combine, RESTful APIs
+-Ferramentas: Xcode, Git, GitHub, Bitbucket
+-Testes: XCTest, TestFlight, CI/CD
+-Ágil: Scrum, Kanban
 💡 Vamos Conectar:
 Estou sempre em busca de projetos empolgantes e colaborações. Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser trabalhar junto!
 
@@ -18,11 +18,11 @@ Estou sempre em busca de projetos empolgantes e colaborações. Sinta-se à vont
 
 🚀 Skills & Technologies:
 
-Languages: Swift, Objective-C
-Frameworks: UIKit, SwiftUI, Core Data, Combine, RESTful APIs
-Tools: Xcode, Git, GitHub, Bitbucket
-Testing: XCTest, TestFlight, CI/CD
-Agile: Scrum, Kanban
+-Languages: Swift, Objective-C
+-Frameworks: UIKit, SwiftUI, Core Data, Combine, RESTful APIs
+-Tools: Xcode, Git, GitHub, Bitbucket
+-Testing: XCTest, TestFlight, CI/CD
+-Agile: Scrum, Kanban
 💡 Let's Connect:
 I'm always looking for exciting projects and collaborations. Feel free to explore my repositories and reach out if you want to work together!
 
