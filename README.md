@@ -1,35 +1,34 @@
-# Sobre mim 
+🇧🇷 Sobre Mim
+👋 Olá! Sou um desenvolvedor iOS entusiasta com mais de 5 anos de experiência em criar aplicativos de alta qualidade. Meu objetivo é criar experiências de usuário intuitivas e aplicativos de alto desempenho. Aqui está um pouco sobre mim:
 
-- Desenvolvedor Python , do back-end ao front-end. ⭐️⭐️⭐️⭐️
-- Amo o que eu faço, admiro o que eu crio, e adoro conhecimento 📚
-- Praia , é comigo mesmo 🏖
-- Swift está se tornando minha nova paixão. 🧑🏻‍💻
+🚀 Habilidades e Tecnologias:
 
-
-## Contatos : 
-- Telefone : (85) 9 8992-1325
-- Email : stenio_bomfim@hotmail.com
-
-Aqui você encontra todos os meus projetos e pratica tanto adiquirido em curso como na faculdade !
-
-# EN:
-
-# About me
-
-- Python developer, from backend to frontend. ⭐️⭐️⭐️⭐️
-- I love what I do, I admire what I create, and I love knowledge 📚
-- Beach, it's with me 🏖
-- Swift is becoming my new crush. 🧑🏻‍💻
+Linguagens: Swift, Objective-C
+Frameworks: UIKit, SwiftUI, Core Data, Combine, RESTful APIs
+Ferramentas: Xcode, Git, GitHub, Bitbucket
+Testes: XCTest, TestFlight, CI/CD
+Ágil: Scrum, Kanban
+💡 Vamos Conectar:
+Estou sempre em busca de projetos empolgantes e colaborações. Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser trabalhar junto!
 
 
-## Contacts :
-- Phone: (85) 9 8992-1325
-- Email : stenio_bomfim@hotmail.com
 
-Here you can find all my projects and practice both in course and in college!
+🇺🇸 About Me
+👋 Hi there! I'm an enthusiastic iOS developer with over 5 years of experience in building top-notch applications. My goal is to create seamless user experiences and high-performance apps. Here's a bit about me:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stenioLim)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stenioLim)](https://github.com/anuraghazra/github-readme-stats)
+🚀 Skills & Technologies:
+
+Languages: Swift, Objective-C
+Frameworks: UIKit, SwiftUI, Core Data, Combine, RESTful APIs
+Tools: Xcode, Git, GitHub, Bitbucket
+Testing: XCTest, TestFlight, CI/CD
+Agile: Scrum, Kanban
+💡 Let's Connect:
+I'm always looking for exciting projects and collaborations. Feel free to explore my repositories and reach out if you want to work together!
+
+
+
+
 
 
 <div> 
